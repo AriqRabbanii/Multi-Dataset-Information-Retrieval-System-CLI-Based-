@@ -1,0 +1,3 @@
+whoosh-reloaded
+Sastrawi
+scikit-learn
