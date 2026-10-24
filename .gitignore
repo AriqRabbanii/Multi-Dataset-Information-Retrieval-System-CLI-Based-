@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Search Engine Index & Temporary Files
+indexdir/
+*.seg
+*.toc
+*.lock
+MAIN_WRITELOCK
+
+# Large Datasets (tidak boleh di-push ke GitHub karena melebihi batas ukuran file)
+datasets/
+dataset/
+*.csv
+*.json
